@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short catechisme, or The examination of communicants concerning their knowledge before they be admitted to the sacrament of the Lords Supper, being according to the rules in the ordinance of Parliament, (Octob. 20. 1645.) the heads whereof are these: viz. 1. Concerning God. 2. Concerning man. 3. Concerning the mediatour. 4. Concerning the application of Christ and his benefits by faith, and what faith is. 5. Concerning those who do truly repent. 6. Concerning a godly life. 7. Concerning the sacraments, and more fully concerning the Lords Supper. 8. Concerning the state of men and women after death. With an appendix containing some questions and answers for the further unfolding the doctrine of the sacraments. It is desired that the Scripture-proofs be perfectly learned.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93203</idno>
+            <idno type="STC">Wing S3575</idno>
+            <idno type="STC">Thomason E1185_10</idno>
+            <idno type="EEBO-CITATION">99869032</idno>
+            <idno type="PROQUEST">99869032</idno>
+            <idno type="VID">170686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170686)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1185[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short catechisme, or The examination of communicants concerning their knowledge before they be admitted to the sacrament of the Lords Supper, being according to the rules in the ordinance of Parliament, (Octob. 20. 1645.) the heads whereof are these: viz. 1. Concerning God. 2. Concerning man. 3. Concerning the mediatour. 4. Concerning the application of Christ and his benefits by faith, and what faith is. 5. Concerning those who do truly repent. 6. Concerning a godly life. 7. Concerning the sacraments, and more fully concerning the Lords Supper. 8. Concerning the state of men and women after death. With an appendix containing some questions and answers for the further unfolding the doctrine of the sacraments. It is desired that the Scripture-proofs be perfectly learned.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition corrected and much inlarged.</edition>
+               </editionStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley, and are to be sold at his shop at Pauls-Chaine,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "march 11th." 1646"; the 7 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170686:1" rendition="simple:additions"/>
+            <p>A SHORT CATECHISME, OR THE Examination of Communicants concerning their knowledge before they be admitted to the Sacrament of the LORDS Supper, being according to the Rules in the Ordi<g ref="char:EOLhyphen"/>nance of Parliament, (<hi>Octob.</hi> 20. 1645.) the heads whereof are theſe: <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. Concerning God.</item>
+               <item>2. Concerning Man.</item>
+               <item>3. Concerning the Medi<g ref="char:EOLhyphen"/>atour.</item>
+               <item>4. Concerning the Applica<g ref="char:EOLhyphen"/>cation of Chriſt and his benefits by Faith, and what Faith is.</item>
+               <item>5. Concerning thoſe who do truly repent.</item>
+               <item>6. Concerning a godly life.</item>
+               <item>7. Concerning the Sacra<g ref="char:EOLhyphen"/>ments, and more fully concerning the Lords Supper.</item>
+               <item>8. Concerning the ſta<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of men and women after death.</item>
+            </list>
+            <p>
+               <hi>With an Appendix containing ſome Queſtions and Anſwers for the further unſolding the Doctrine of the Sacraments.</hi>
+            </p>
+            <p>It is deſired that the Scripture-proofs be perfectly learned</p>
+            <p>
+               <hi>The third Edition corrected and much inlarged.</hi>
+            </p>
+            <p>
+               <add>march. 11<hi rend="sup">th</hi>
+               </add>Printed for <hi>William Ley,</hi> and are to be ſold at his ſhop at <hi>Pauls-Chaine.</hi> 1647. <add>1646</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:170686:2"/>
+            <pb n="1" facs="tcp:170686:2"/>
+            <head>A Short Catechiſme.</head>
+            <p>
+               <label>1. Queſt.</label> 
+               <hi>WHat ought ſuch as are to bee admitted to the Sacrament of the Lords Supper, to know con<g ref="char:EOLhyphen"/>cerning God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <list>
+                  <item>1. That there is a God, <hi>Heb.</hi> 11.6.</item>
+                  <item>2. That there is but one true God, 1 <hi>Cor.</hi> 8.4, 6.</item>
+                  <item>3. That the true God is an ever-living God.
+<list>
+                        <item>Living, <hi>Jer.</hi> 10.10.</item>
+                        <item>Everliving, 1 <hi>Tim.</hi> 1.17.</item>
+                     </list>
+                  </item>
+                  <item>4. The maker of heaven and earth, <hi>Exod.</hi> 20.11.</item>
+                  <item>5. And governour of al things, <hi>Pſ.</hi> 67.4. &amp; 135.5, 6. Prov. 16.33.</item>
+                  <item>6. That this only true God is the God whom we worſhip.</item>
+                  <item>7. That this one true God is three diſtinct Perſons, the Father, Son, and Holy Ghoſt, <hi>Mat.</hi> 28.19.</item>
+                  <item>8. All theſe three perſons are equally God:
+<list>
+                        <item>The Father is God, <hi>Epheſ.</hi> 1.3.</item>
+                        <item>The Son is God, <hi>Rom.</hi> 9.5.</item>
+                        <item>The Holy Ghoſt is God, <hi>Acts</hi> 5.3, 4.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>2. Q.</label> 
+               <hi>What ought ſuch to know concerning Man?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That God created Man, <hi>Gen.</hi> 1.27. <hi>Pſ.</hi> 100.3.</item>
+                  <item>2. After his owne Image, <hi>Gen.</hi> 1.27.</item>
+                  <item>
+                     <pb n="2" facs="tcp:170686:3"/>
+3.
+<list>
+                        <item>In Knowledge,</item>
+                        <item>Righteouſneſs,</item>
+                        <item>And true Holineſs.</item>
+                     </list> 
+                     <hi>Col.</hi> 3.10. <hi>Epheſ.</hi> 4.24.</item>
+                  <item>4. That by one man ſin entred into the world,</item>
+                  <item>5. And death by ſin,</item>
+                  <item>6. And ſo death paſſed upon all men, for that all have ſinned, <hi>Rom.</hi> 5.12.</item>
+                  <item>7. That thereby they are all dead in treſpaſſes and ſins, <hi>Epheſ.</hi> 2.1, 5.</item>
+                  <item>8. And are by nature the children of wrath, <hi>Eph.</hi> 2.3. and ſo liable to eternall death, which is the wages of every ſin, <hi>Rom.</hi> 6.23.</item>
+               </list>
+            </p>
+            <p>
+               <label>3. Q.</label> 
+               <hi>What ought ſuch to know concerning the Medi<g ref="char:EOLhyphen"/>atour between God and Man?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That there is a Mediatour between God and and Man. 1 <hi>Tim.</hi> 2.5.</item>
+                  <item>2. There is but one Mediator. 1 <hi>Tim.</hi> 2.5.</item>
+                  <item>3. This Mediatour is the man Chriſt Jeſus. 1 <hi>Tim.</hi> 2.5.</item>
+                  <item>4. Who is alſo over all, God bleſſed for ever, <hi>Rom.</hi> 9.5.</item>
+                  <item>5. Neither is there ſalvation in any other, <hi>Act.</hi> 4.2.</item>
+                  <item>6. That hee was conceived by the Holy Ghoſt, <hi>Mat.</hi> 1.18.20.</item>
+                  <item>7. And borne of the Virgin <hi>Mary, Luc.</hi> 1.27.31. and 2.6, 7.</item>
+                  <item>8. That he died upon the croſſe, <hi>Mat.</hi> 27.50.</item>
+                  <item>9. That he dyed to ſave his people from their ſins, <hi>Rom.</hi> 4.25. 1 <hi>Cor.</hi> 15.3. 1 <hi>Pet.</hi> 3.18.</item>
+                  <item>10. That he roſe againe the third day from the
+<pb n="3" facs="tcp:170686:3"/>dead, <hi>Acts</hi> 10.40. 1 <hi>Cor.</hi> 15.4.</item>
+                  <item>11. Aſcended into heaven, <hi>Luc.</hi> 24.51.</item>
+                  <item>12. Sits at the right hand of God, <hi>Rom.</hi> 8.34.</item>
+                  <item>13. And makes continual interceſſion for us <hi>Rom.</hi> 8.34.</item>
+                  <item>14. Of whoſe fulneſs we receive all grace, <hi>Ioh.</hi> 1.16.</item>
+               </list>
+            </p>
+            <p>
+               <label>4. Queſt.</label> 
+               <hi>What ought ſuch to know concerning the application of Chriſt and his beneſits, and what faith is?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That Chriſt Jeſus and his benefits are appli<g ref="char:EOLhyphen"/>ed only by faith, <hi>Joh.</hi> 1.12. <hi>Rom.</hi> 3.25. <hi>Gal.</hi> 3.26.</item>
+                  <item>2. That faith is the gift of God, <hi>Eph.</hi> 2.8. <hi>Phil.</hi> 1.29. and that we have it not of our ſelves, <hi>Ioh.</hi> 6.44. But it is wrought in us by the Word, <hi>Rom.</hi> 10.17. and Spirit of God, 1 <hi>Cor.</hi> 3.6.</item>
+                  <item>3. <p>That faith is that grace whereby we believe and truſt in Chriſt for remiſſion of ſins, and life ever<g ref="char:EOLhyphen"/>laſting, <hi>Acts</hi> 10.43. and 13.38, 39. and 15.11. <hi>Rom.</hi> 3.25.</p>
+                     <p>According to the promiſe of the Goſpell, <hi>Joh.</hi> 3<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 15. and 16.</p>
+                  </item>
+                  <item>4. And whoſoever beleeves not on the Sonne of God ſhall not ſee life, but ſhal periſh eternally, <hi>Mar.</hi> 16.16. <hi>Iohn</hi> 3.18, 36.</item>
+               </list>
+            </p>
+            <p>
+               <label>5. Q.</label> 
+               <hi>What ought ſuch to know concerning thoſe who do truly repent of their ſins?</hi>
+            </p>
+            <p>
+               <label>A.</label> That they who do truly repent of their ſins,
+<list>
+                  <item>1. Do ſee them, <hi>Act.</hi> 26.18. <hi>Pſal.</hi> 51.3, 4.</item>
+                  <item>2. Sorrow for them, <hi>Pſal</hi> 38.18. 2 <hi>Cor.</hi> 7.9, 10, 11.</item>
+                  <item>3. And turne from them to the Lord, <hi>Eſa.</hi> 55.7. <hi>Lam.</hi> 3.40.</item>
+                  <item>
+                     <pb n="4" facs="tcp:170686:4"/>
+4. And that except men repent, they ſhall ſurely periſh, <hi>Luc.</hi> 13.2, 5. <hi>Rom.</hi> 2.4, 5.</item>
+               </list>
+            </p>
+            <p>
+               <label>6. Q.</label> 
+               <hi>What ought ſuch to know concerning a godly life?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That a godly life is conſcionably ordered according to the Word of God, <hi>Pſal.</hi> 119.4, 5, 9, 133.</item>
+                  <item>2. In holineſſe and righteouſneſſe, <hi>Luc.</hi> 1.74, 75. <hi>Tit.</hi> 2.12.</item>
+                  <item>3. Without which no man ſhal ſee God, <hi>Heb.</hi> 12.14. 1 <hi>Cor.</hi> 6.9.</item>
+               </list>
+            </p>
+            <p>
+               <label>7. Q.</label> 
+               <hi>What ought ſuch to know concerning the Sa<g ref="char:EOLhyphen"/>craments, and more fully concerning the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That the Sacraments are Seales of the Covenant of Grace in the blood of Chriſt, <hi>Rom.</hi> 4.11. <hi>Acts</hi> 2.38. 1 <hi>Cor.</hi> 10.16. and 11, 15.</item>
+                  <item>2. That the Sacraments of the New Teſtament are
+<list>
+                        <item>1. Baptiſme, <hi>Mat,</hi> 28.19,</item>
+                        <item>2. and the Lords Supper, <hi>Mat.</hi> 26.26, 27, 28.</item>
+                     </list>
+                  </item>
+                  <item>3. That the outward Elements in the Lords Sup<g ref="char:EOLhyphen"/>per are Bread and Wine, <hi>Mat.</hi> 26.26, 27, 28, 29.</item>
+                  <item>4. That this Bread and Wine doe ſignifie the Body and Blood of Chriſt crucified, <hi>Mat.</hi> 26.26, 27, 28.</item>
+                  <item>5. Which the worthy receiver by faith doth par<g ref="char:EOLhyphen"/>take of in this Sacrament, 1 <hi>Cor.</hi> 10, 16.</item>
+                  <item>6 That Chriſt likewiſe ordained this Bread and
+<pb n="5" facs="tcp:170686:4"/>Wine for a remembrance of his death, 1 <hi>Cor<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 11, 24, 25.</item>
+                  <item>7. That whoſoever eats and drinkes unworthily is guilty of the Body and Blood of the Lord, 1 <hi>Cor.</hi> 11.27.</item>
+                  <item>8. <p>And therefore that every one is to examine himſelfe, 1 <hi>Cor.</hi> 11.28.</p>
+                     <p>Leaſt hee eat and drinke judgement to himſelfe, not diſcerning the Lords Body, 1 <hi>Cor.</hi> 11.29.</p>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>8. Q.</label> 
+               <hi>What ought ſuch to know, concerning the ſtate of men and women after death?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. That the ſouls of the faithful after death do immediately live with Chriſt in bleſſedneſſe, <hi>Luk.</hi> 16.22. &amp; 23.43. <hi>Phil.</hi> 1.23.</item>
+                  <item>2. And that the ſouls of the wicked do immediate<g ref="char:EOLhyphen"/>ly go into hell-torments; <hi>Luk.</hi> 16.22, 23.</item>
+                  <item>3. That there ſhal be a Reſurrection of the bodies both of the Juſt and Unjuſt at the laſt day, <hi>Joh.</hi> 5.28, 29.</item>
+                  <item>4 At which time all ſhall appear before the Judg<g ref="char:EOLhyphen"/>ment ſeat of Chriſt, <hi>Mat</hi> 25.32. <hi>Rom.</hi> 14.10. 2 <hi>Cor.</hi> 5.10.</item>
+                  <item>5. To receive according to what they have done in the body, whether it be good or evill, <hi>Joh.</hi> 5.28.29. 2 <hi>Cor.</hi> 5.10.</item>
+                  <item>6. And that the righteous ſhall go into life eter<g ref="char:EOLhyphen"/>nall, <hi>Mat.</hi> 25.46.</item>
+                  <item>7. And the wicked into everlaſting puniſhment <hi>Joh.</hi> 5.29.</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="appendix">
+            <pb n="6" facs="tcp:170686:5"/>
+            <head>An Appendix containing ſome other Queſtions and Anſwers for the further unfolding of the Doctrine of both the Sacraments.</head>
+            <p>
+               <label>Q.</label> 
+               <hi>WHerein do the Sacraments of Baptiſm and the Lords Supper differ?</hi>
+            </p>
+            <p>
+               <label>A.</label> Baptiſme is to be adminiſtred,
+<list>
+                  <item>1. Onely once.</item>
+                  <item>2. In one Element of water, <hi>Mat.</hi> 3.11. <hi>Joh.</hi> 1.33. <hi>Act.</hi> 8.36. &amp; 10.47.</item>
+                  <item>3. <p>To unbeleevers converted to the faith, <hi>Act.</hi> 8.12.13, 37, 38, &amp; 2.41.</p>
+                     <p>And to infants of one or both Chriſtian Pa<g ref="char:EOLhyphen"/>rents, <hi>Mat.</hi> 28.19. 1 <hi>Cor.</hi> 7.14. <hi>Rom.</hi> 11.16. <hi>Act.</hi> 2.39. <hi>Mar.</hi> 10.14.</p>
+                  </item>
+                  <item>4. Hereby they are viſibly entred, and by the Church acknowledged to bee of Gods houſ<g ref="char:EOLhyphen"/>hould, <hi>Act.</hi> 2.41. &amp; 8.37, 38. <hi>Mat.</hi> 28.19.</item>
+               </list>
+            </p>
+            <p>But the Lords Supper is to be adminiſtred,
+<list>
+                  <item>1. Often, 1 <hi>Cor.</hi> 26.</item>
+                  <item>2. In two Elements of Bread and Wine, <hi>Mat.</hi> 26.26, 27, 28.</item>
+                  <item>3. Onely to them that (being baptized) can exa<g ref="char:EOLhyphen"/>mine themſelves, 1 <hi>Cor.</hi> 11.28.</item>
+                  <item>4. For their further nouriſhing in the Church, 1 <hi>Cor.</hi> 11.24. &amp; 10.16.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:170686:5"/>
+               <label>Q.</label> 
+               <hi>Are the Sacraments neceſſary to Salvation?</hi>
+            </p>
+            <p>
+               <label>A.</label> They are neceſſary in a twofold reſpect,
+<list>
+                  <item>1. In reſpect of Gods Commandement. <hi>Mat.</hi> 28.19. <hi>Mat.</hi> 26, 26, 27.</item>
+                  <item>2. As they are meanes for the ſtrengthening of faith.</item>
+               </list>
+            </p>
+            <p>But they are not of abſolute neceſſity, ſo as who<g ref="char:EOLhyphen"/>ſoever partakes not of them muſt of neceſſity periſh, <hi>Mar.</hi> 16.16. <hi>Luc.</hi> 23.43. <hi>Ioſh.</hi> 5.5, 6. neither do they of themſelves confer grace, <hi>Act.</hi> 8.13.23</p>
+            <p>
+               <label>Q.</label> 
+               <hi>To whom doth the adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments belong?</hi>
+            </p>
+            <p>
+               <label>A.</label> Onely to ſuch as are guifted, and called to make knowne the Covenant, <hi>Mat.</hi> 28.19. <hi>Heb.</hi> 5.4. 2 <hi>Sam.</hi> 6, 7. 2 <hi>Chron.</hi> 26.16, 17, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is to be done by the Miniſter in and about the adminiſtration of Baptiſme?</hi>
+            </p>
+            <p>
+               <label>A.</label> Three things;
+<list>
+                  <item>1. To declare the inſtitution,</item>
+                  <item>2. To pray for a bleſſing,</item>
+                  <item>3. To baptize the party with water (by dipping or ſprinkling) in the name of the Father, and of the Sonne, and of the Holy Ghoſt, <hi>Mat.</hi> 28.19.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>For what uſe ſerves Baptiſme?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. To bee an outward badge for diſtinction of thoſe who are within the viſible Church, from thoſe that are without.</item>
+                  <item>2. To ſignifie and to ſeale by ſuch viſible waſhing of the body.
+<list>
+                        <pb n="8" facs="tcp:170686:6"/>
+                        <item>1. <p>The waſhing away the guilt of all ſins, <hi>Act.</hi> 2.38. &amp; 22.16. by the bloodſhed of Chriſt, <hi>Heb.</hi> 9.14. 1 <hi>Joh.</hi> 1.7.</p>
+                           <p>And the imputation of Chriſts righteouſneſſe, <hi>Rom.</hi> 4.11.</p>
+                        </item>
+                        <item>2. The waſhing of regeneration, and renewing of the Holy Ghoſt, <hi>Mat.</hi> 3.11. <hi>Luc.</hi> 3.16. 1 <hi>Pet.</hi> 3.21. <hi>Tit.</hi> 3.5.</item>
+                        <item>3. To oblige the party baptized,
+<list>
+                              <item>1. To beleeve in Chriſt, <hi>Act.</hi> 8.37.</item>
+                              <item>2. To dye to ſin, and to riſe up to newneſſe of life, <hi>Mat.</hi> 3.11. <hi>Rom.</hi> 6.3, 4.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhen may a man be ſaid to have ſaving benefit by his Baptiſme?</hi>
+            </p>
+            <p>
+               <label>A.</label> When he putteth on Chriſt by faith, <hi>Mar.</hi> 16.16. <hi>Gal.</hi> 3.27. ſuch onely can plead it, though all the elect have right to be waſhed in time.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat is to be done by the Parent that would have his child baptized?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Seaſonably to preſent his child to the ordi<g ref="char:EOLhyphen"/>nance of Baptiſme.</item>
+                  <item>2. To be deeply affected with the ſinfull, and de<g ref="char:EOLhyphen"/>ſervedly miſerable condition of himſelfe, and his childs by nature.</item>
+                  <item>3. To bleſſe God for his Covenant of Grace, for Chriſt the Mediatour, and for this Ordinance.</item>
+                  <item>4. To renew the acting of his faith in the Co<g ref="char:EOLhyphen"/>venant.</item>
+                  <item>5. To make confeſſion of that Faith (if by the
+<pb n="9" facs="tcp:170686:6"/>Miniſter it bee required) into the profeſſion whereof hee would have his child to bee ad<g ref="char:EOLhyphen"/>mitted.</item>
+                  <item>6. To lift up his heart in prayer to God for the Infant.</item>
+                  <item>7. To declare his reſolution (the Lord aſſiſting him) to traine up his child in the true Religion.</item>
+                  <item>8. Accordingly, to pray for it; to inſtruct it as it ſhall be capable, to watch over it, to give it good example, &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat is the duty of the reſt of the Members?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. To afford their preſence at the Ordinance.</item>
+                  <item>2. To eye and attend the Adminiſtration.</item>
+                  <item>3. To renew their owne Covenant.</item>
+                  <item>4. To joyne in prayer with the Miniſter for the Infant.</item>
+                  <item>5. To put to their beſt furtherance that it and theirs may anſwer their Baptiſme, if ſpared to live to years of diſcretion.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhen and where is it fitteſt this Sacrament ſhould be adminiſtred?</hi>
+            </p>
+            <p>
+               <label>A.</label> Though by Gods Word neither time nor place be particularly preſcribed and limited, yet moſt fitting it is to be ſpeedily and publikely performed in the Aſſembly and view of Gods people.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhen and by whom was the Sacrament of the Lords Supper ordained?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the Lord Jeſus Chriſt, in the ſame night
+<pb n="10" facs="tcp:170686:7"/>wherein hee was betrayed, <hi>Mat</hi> 26.26. 1 <hi>Cor.</hi> 11.23, 24, 25, 26.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>For what ends did Chriſt adminiſter, and inſti<g ref="char:EOLhyphen"/>tute. Bread and Wine to be adminiſtred and re<g ref="char:EOLhyphen"/>ceived in this Sacrament?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. To put us in minde of himſelfe and his ſuf<g ref="char:EOLhyphen"/>ferings to death it ſelfe for the redemption of his choſen, <hi>Luc.</hi> 22.19, 20. 1 <hi>Corin.</hi> 11.24, 25, 26.</item>
+                  <item>2. To be as ſeales to aſſure the conſciences of true Beleevers of their part in Chriſt, and of all thoſe good things contained in the Covenant of Mercy, 1 <hi>Cor.</hi> 10.16. <hi>Mat.</hi> 26.28. 1 <hi>Cor.</hi> 11.24, 25.</item>
+                  <item>3. To aſſure us that Chriſt is full and ſufficient nouriſhment to our Soules, as Bread and Wine eating and drinking, are to our bodies, <hi>Iohn</hi> 6.35. &amp;c. <hi>Pſa.</hi> 104.15.</item>
+                  <item>4. To declare our communion and agreement with our brethren, 1 <hi>Cor.</hi> 10.17.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What be the outward actions to be performed by the Miniſter in the administration of this Sa<g ref="char:EOLhyphen"/>crament?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. He is to take and ſet the Bread and Wine a<g ref="char:EOLhyphen"/>part from common uſe.</item>
+                  <item>2. He is to ſanctfie them by declaring the World of Inſtitution, with thankſgiving and prayer.</item>
+                  <item>3. He ſhould viſibly breake the bread and powre forth the wine.</item>
+                  <item>
+                     <pb n="11" facs="tcp:170686:7"/>
+4. He is to give the ſame unto, or ſo to diſpoſe of them, as they may be taken by the receivers.</item>
+                  <item>5. He is to require them to take and eat the Bread and drink the Wine.</item>
+                  <item>6. He is to declare unto them the ends of that their taking, eating, and drinking, according to the firſt Inſtitution, <hi>Mat.</hi> 26.26, 27, 28, 1 <hi>Cor.</hi> 11.23, 24, 25, 26.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are the outward actions that are to be per<g ref="char:EOLhyphen"/>formed by the receivers?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. They are to take the Bread and Wine. <hi>Mat.</hi> 26.26. &amp;c. 1 <hi>Cor.</hi> 11.23. &amp;c.</item>
+                  <item>2. They are to eat the Bread and drink the Wine. <hi>Mat.</hi> 26.26. &amp;c. 1 <hi>Cor.</hi> 11.23. &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is it fit for thoſe who have charge of ſoules to try the fitneſſe of ſuch as they admit to the Table of the Lord?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, it is very fit it ſhouid be ſo, 2 <hi>Chron.</hi> 35. 6. compared with Chap. 30.17. <hi>Ier.</hi> 15.9. <hi>Mat.</hi> 7. 6. <hi>Act.</hi> 20.28. 1 <hi>Tim.</hi> 5.22.</p>
+            <p>And their flock ſhould be ready and willing to ſub<g ref="char:EOLhyphen"/>mit thereunto, 1 <hi>Pet.</hi> 3.15.1 <hi>Theſ.</hi> 5.12. <hi>Heb.</hi> 3.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who may be admitted to partake of this Sacra<g ref="char:EOLhyphen"/>ment, and who may not?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Such as having been baptized may bee ad<g ref="char:EOLhyphen"/>mit<g ref="char:EOLhyphen"/>ted.</item>
+                  <item>2. Having competent Knowledge, may bee ad<g ref="char:EOLhyphen"/>mit<g ref="char:EOLhyphen"/>ted.</item>
+                  <item>3. Performe religious duties, may bee ad<g ref="char:EOLhyphen"/>mit<g ref="char:EOLhyphen"/>ted.</item>
+                  <item>4. That ſtand not lawfully excommunicated may bee ad<g ref="char:EOLhyphen"/>mit<g ref="char:EOLhyphen"/>ted.</item>
+                  <item>5. And live without ſcandall. may bee ad<g ref="char:EOLhyphen"/>mit<g ref="char:EOLhyphen"/>ted.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:170686:8"/>
+But
+<list>
+                  <item>1. Ignorant, ought to be debarred.</item>
+                  <item>2. Scandalous perſons, ought to be debarred.</item>
+                  <item>3. And ſuch as ſtand worthily excommunicated. ought to be debarred.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Should not every particular Communicant exa<g ref="char:EOLhyphen"/>mine himſelfe before he eat of this bread, and drink of this cup?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes; 1 <hi>Cor.</hi> 11.28. and upon. examination he ſhould be able to finde that he comes thereunto
+<list>
+                  <item>1. Not of meere cuſtome, or conſtraint, But</item>
+                  <item>2. For conſcience ſake, and willingly,</item>
+                  <item>3. To right ends,</item>
+                  <item>4. With knowledge,</item>
+                  <item>5. With faith in Chriſt,</item>
+                  <item>6. With repentance,</item>
+                  <item>7. With With love,</item>
+                  <item>8. With an earneſt deſire,</item>
+                  <item>9. With a thankfull heart,</item>
+                  <item>10. And with earneſt prayer to God for a bleſſing.</item>
+               </list>
+            </p>
+            <p>
+               <hi>VVhat is required of true beleevers (beſides their taking, eating and drinking) when they are come to the Table of the Lord?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Reverent behaviour of the whole man <hi>Pſ.</hi> 5.7. <hi>Heb.</hi> 12.28.</item>
+                  <item>2. Heedfull obſervation of the
+<list>
+                        <item>Elements, <hi>Exod.</hi> 24.8.</item>
+                        <item>Words, <hi>Exod.</hi> 24.8.</item>
+                        <item>Actions. <hi>Exod.</hi> 24.8.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <pb n="13" facs="tcp:170686:8"/>
+3. Meditation according to the Sacramentall Re<g ref="char:EOLhyphen"/>lation, 1 <hi>Cor.</hi> 11.24, 25.</item>
+                  <item>A Melting, <hi>Zach.</hi> 12.10.
+<list>
+                        <item>Thankfull, <hi>Pſal.</hi> 103.1, 2, 3, 4.</item>
+                        <item>And rejoycing heart, <hi>Dent.</hi> 16.15. <hi>Phil.</hi> 4.4.</item>
+                     </list>
+                  </item>
+                  <item>5. Sacramentall Faith, applying that for them<g ref="char:EOLhyphen"/>ſelves which God hath promiſed, and Chriſt hath purchaſed.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat is the duty of beleevers after they have received and when they are departed the Table of the Lord?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Earneſt ſuing to God for a bleſſing, 1 <hi>Theſ.</hi> 5.17</item>
+                  <item>2. Examination how they have ſped, <hi>Pſ.</hi> 119.59. <hi>Hag.</hi> 1.7. <hi>Lam.</hi> 3.40.</item>
+                  <item>3. Thankfulneſſe for Chriſt, and the Sacrament, <hi>Pſ.</hi> 103.2, 3. <hi>Phil.</hi> 4.6.</item>
+                  <item>4. A firmer cleaving unto God for time to come, <hi>Deut.</hi> 30.20. <hi>Act.</hi> 11.23.
+<list>
+                        <item>1. By affiance, <hi>Rom.</hi> 4.11, 18, 19, 20, 21.</item>
+                        <item>2. Love, <hi>Pſ.</hi> 18.1. &amp; 116.1.1 <hi>John</hi> 4.19.</item>
+                        <item>3. And holy endeavour of more fruitfull obe<g ref="char:EOLhyphen"/>dience, <hi>Deut.</hi> 10.12. <hi>Luc.</hi> 1.74, 75. <hi>Rom.</hi> 12.1.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>And fitting it were that ſomthing were laid a<g ref="char:EOLhyphen"/>part for the reliefe of the poore and needy, 1 <hi>Cor.</hi> 16.2. <hi>Nehem.</hi> 8.10. <hi>Heb.</hi> 13.16.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How often are true beleevers to celebrate, and partake of the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>A.</label> Though the certaine number of daies be not ſtrictly and particularly preſcribed, yet fitting it is that it ſhould be often adminiſtred and re<g ref="char:EOLhyphen"/>ceived, 1 <hi>Cor.</hi> 11.25, 26.</p>
+            <p>
+               <pb n="14" facs="tcp:170686:9"/>
+               <label>Q.</label> 
+               <hi>Doe theſe outward Elements ſtill remaine Bread and Wine in the time of their administration and receiving, or are they not changed into the body and blood of Christ?</hi>
+            </p>
+            <p>
+               <label>A.</label> They do remaine Bread and Wine, and are not changed into his Body and blood, but are one<g ref="char:EOLhyphen"/>ly Signes thereof, and Seales of the Covenant to true beleevers.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What difference is there then betwixt this Bread and Wine, and that we partake of at our ordinary tables?</hi>
+            </p>
+            <p>
+               <label>A.</label> None in nature, onely in uſe, theſe being ſet apart for holy uſe, 1 <hi>Cor.</hi> 11.26. &amp; 10.16.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How long doth the Bread and VVine continue to be the ſignes of the body and blood of Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Only during the time of celebration and ad<g ref="char:EOLhyphen"/>miniſtration of the Sacrament, and no longer.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doth ones coming faſting commend one any thing the more to God in approaching the Table of the Lord?</hi>
+            </p>
+            <p>
+               <label>A.</label> No, in its ſelfe it is nothing availeable, neither for conſcience ſake is it to be obſerved, <hi>Mat.</hi> 26.26. 1 <hi>Cor.</hi> 11.34. <hi>Rom.</hi> 14.17. 1 <hi>Cor.</hi> 8.8. any further Then tends to edification, 1 <hi>Cor.</hi> 14.26. 1 <hi>Cor.</hi> 10.31.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How long is this Sacrament to be in uſe in the Church?</hi>
+            </p>
+            <p>
+               <label>A.</label> Till Chriſt his coming againe, 1 <hi>Cor.</hi> 11, 26.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>John Downame.</signed>
+            </closer>
+            <pb facs="tcp:170686:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
